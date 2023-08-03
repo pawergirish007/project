@@ -1,2 +1,6 @@
-Hi,
-vikram Bhoite
+Devops topic--
+Linux
+AWS
+Terraform
+python
+ansible
