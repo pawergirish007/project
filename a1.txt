@@ -6,3 +6,7 @@ python
 ansible
 git
 maven
+jenkins
+docker
+kuber
+sonar
